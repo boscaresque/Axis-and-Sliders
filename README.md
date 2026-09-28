@@ -1,7 +1,7 @@
 # Axis & Sliders
 
 A small, dependency-free widget that pairs an X/Y axis plot with two sliders.
-Styled in a light pastel theme with Century Gothic.
+
 
 - Drag the point on the plot, move either slider, or type a value: all three stay in sync.
 - Dashed guides and axis markers show exactly where the point sits.
